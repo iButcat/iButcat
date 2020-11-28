@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## I'm a self taught Developer!
-
 - 🔭 I’m currently working on Golang project
 - 🌱 I’m currently learning about clean architecture
 - 💬 Ask me about Microservice!
