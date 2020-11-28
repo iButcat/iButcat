@@ -5,11 +5,6 @@
 - 💬 Ask me about Microservice!
 - 📫 How to reach me: Linkedin or Gmail!
 
-### Medium
-
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
 ### Dev Community
 
 <!-- DEVTO:START -->
