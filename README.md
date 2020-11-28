@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## I'm a self taught Developer!
+
+- 🔭 I’m currently working on Golang project
+- 🌱 I’m currently learning about clean architecture
+- 💬 Ask me about Microservice!
+- 📫 How to reach me: Linkedin or Gmail!
+
 ### Dev Community
 
 <!-- DEVTO:START -->
@@ -12,6 +19,12 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/iButcat">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iButcat&layout=compact&theme=radical" />
 </a>
+
+---
+
+[website]: https://www.alexismorin.tk
+[linkedin]: https://www.linkedin.com/in/alexis-morin-8244291a9/
+
 
 <!--
 **iButcat/iButcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
