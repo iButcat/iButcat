@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Golang project
 - 🌱 I’m currently learning about clean architecture
 - 💬 Ask me about Microservice!
-- 📫 How to reach me: Linkedin or Gmail!
+- 📫 How to reach me: Gmail!
 
 ### Dev Community
 
@@ -21,7 +21,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 ---
 
 [website]: https://www.alexismorin.tk
-[linkedin]: https://www.linkedin.com/in/alexis-morin-8244291a9/
 
 
 <!--
