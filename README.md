@@ -5,11 +5,6 @@
 - 💬 Ask me about Microservice!
 - 📫 How to reach me: Gmail!
 
-### Dev Community
-
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/iButcat">
