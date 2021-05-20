@@ -11,7 +11,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <img align="center" alt="iButcat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=iButcat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/iButcat">
   <img align="center" src="https://github-readme-stats. api/top-langs/?username=iButcat&layout=compact&theme=radical" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/iButcat/github-readme-stats)
 </a>
 
 ---
