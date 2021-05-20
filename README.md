@@ -9,7 +9,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=iButcat&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iButcat&langs_count=5&theme=tokyonight" />
 </p>
 
 
