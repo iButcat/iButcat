@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on serverless service with Golang 
+- 🔭 I’m currently working on Flutter bloc
 - 🌱 I’m currently learning about algorithm 
 - 💬 Ask me about Microservices
 - 📫 How to reach me: Gmail!
