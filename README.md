@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter bloc
 - 🌱 I’m currently learning about algorithm 
 - 💬 Ask me about Microservices
-- 📫 How to reach me: Gmail!
+- 📫 How to reach me: Protonmail
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
