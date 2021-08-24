@@ -11,7 +11,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iButcat&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/iButcat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iButcat&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iButcat&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 <!--
