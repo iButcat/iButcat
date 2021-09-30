@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Do not hesitate to contact me on my email !
+
 - 🔭 I’m currently working on Golang 
 - 🌱 I’m currently learning about algorithm 
 - 💬 Ask me about Microservices
