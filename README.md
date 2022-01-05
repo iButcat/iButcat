@@ -16,12 +16,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a>
   <img align="center" src="https://github.com/iButcat/iButcat/blob/main/codewars.png" />
  </a>
- <a>
-  <img align="center" src="https://github.com/iButcat/iButcat/blob/main/codewars1.png" />
- </a>
-<a>
-  <img align="center" src="https://github.com/iButcat/iButcat/blob/main/codewars2.png" />
- </a>
+
 
 <!--
 **iButcat/iButcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
