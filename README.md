@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+<a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" /></a>
+
 - 🔭 I’m currently working on Golang 
 - 🌱 I’m currently learning about web3
 - 💬 Ask me about Microservices
 - 📫 How to reach me: Protonmail
 
-<a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" /></a>
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
   <a href="https://github.com/iButcat">
