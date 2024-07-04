@@ -2,7 +2,7 @@
 
 <a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" /></a>
 
-- 🔭 I’m currently working on freelancing project for a Fortune 500 company and personal products 
+- 🔭 I’m currently working on personal products after finishing 2 years of contract with a Fortune 500 company as a freelancer. 
 - 🌱 I’m currently learning about AI
 - 💬 Ask me about Microservices (architecture), Devops and Go
 - 📫 How to reach me: on my email address
