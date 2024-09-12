@@ -2,8 +2,8 @@
 
 <a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" /></a>
 
-- 🔭 I’m currently working on personal products after finishing 2 years of contract with a Fortune 500 company as a freelancer. 
-- 🌱 I’m currently learning about AI
+- 🔭 I’m currently working on SaaS products after finishing 2 years and half contract with a Fortune 500 company as a software/devops engineer freelancer. 
+- 🌱 I’m currently learning about AI 
 - 💬 Ask me about Microservices (architecture), Devops and Go
 - 📫 How to reach me: on my email address
 
