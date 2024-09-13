@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" /></a>
 
