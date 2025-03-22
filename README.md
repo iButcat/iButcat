@@ -3,7 +3,7 @@
 <a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" /></a>
 
 - 🔭 I’m currently working on Rust for embedded system with an AI system to recognise authorised peoples 
-- 🌱 I’m currently learning about AI 
+- 🌱 I’m currently learning about 3d printing with modeling. 
 - 💬 Ask me about Microservices (architecture), Devops and Go
 - 📫 How to reach me: on my email address
 
