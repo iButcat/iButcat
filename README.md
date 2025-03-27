@@ -16,7 +16,7 @@ Exploring **3D printing** and **modeling** to bring my hardware projects to life
 - **Go (Golang) development**  
 
 ### 📫 **How to Reach Me**  
-Feel free to contact me via **email** (you can add your email or a contact link here).  
+Feel free to contact me via **email**  
 
 ---
 
