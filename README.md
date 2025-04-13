@@ -14,7 +14,7 @@ Exploring **3D printing** and **modeling** to bring my hardware projects to life
 - **Microservices architecture**  
 - **DevOps practices** (CI/CD, Docker, Kubernetes)  
 - **Go (Golang) development** 
-- ** Rust embedded development (esp32)** 
+- **Rust embedded development (esp32)** 
 
 ### 📫 **How to Reach Me**  
 Feel free to contact me via **email**
