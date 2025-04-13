@@ -24,11 +24,11 @@ Feel free to contact me via **email**
 ### 📊 **GitHub Stats**  
 
 <a href="https://github.com/iButcat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iButcat&count_private=true&show_icons=true&theme=synthwave&exclude_repo=terraform-associate-practice&show=prs_merged,prs_merged_percentage&include_all_commits=true&border_radius=10&rank_icon=github&card_width=400" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iButcat&count_private=true&show_icons=true&theme=synthwave&exclude_repo=terraform-associate-practice&show=prs_merged,prs_merged_percentage&include_all_commits=true&border_radius=10&rank_icon=github" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/iButcat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iButcat&count_private=true&langs_count=8&layout=compact&theme=synthwave&exclude_repo=terraform-associate-practice&hide=html,css&border_radius=10&card_width=400" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iButcat&count_private=true&langs_count=8&layout=compact&theme=synthwave&exclude_repo=terraform-associate-practice&hide=html,css&border_radius=10" alt="Top Languages" />
 </a>  
 
 **Note:** Top languages reflect my most-used languages on GitHub, not necessarily my expertise level.  
