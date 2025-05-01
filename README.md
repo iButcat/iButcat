@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on **embed
 Currently, I'm developing an **embedded AI system in Rust** that uses camera recognition to authenticate authorized personnel.  
 
 ### 🌱 **What I’m Learning**  
-Exploring **3D printing** and **modeling** to bring my hardware projects to life.  
+Exploring **3D printing** and going deeper into embedded systems
 
 ### 💬 **Ask Me About**  
 - **Microservices architecture**  
