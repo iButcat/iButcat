@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a focus on **embedded systems, microservices, and DevOps**. I love working on innovative projects that bridge hardware and software. I am also an open source contributeur building DevOps tools around Vates Xen Orchestra (XO) which is a web-based management tool and virtual appliance designed for XCP-ng (or Citrix Hypervisor/XenServer) infrastructure.
 
 ### 🔭 **What I’m Working On**  
-Currently, I'm developing an **embedded AI system in Rust** that uses camera recognition to authenticate authorized personnel.  
+Currently, I'm developing an **embedded system in Rust** that uses camera recognition to authenticate authorized personnel.  
 
 ### 🌱 **What I’m Learning**  
 Exploring **3D printing** and going deeper into embedded systems
