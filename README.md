@@ -51,11 +51,11 @@ Feel free to contact me via **email**
 ---
 
 ### 🔨 **Technologies & Tools**  
- 
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) 
-![Terraform](https://img.shields.io/badge/-Terraform-326CE5?style=flat&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) 
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)  
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)  
 
 ---
 
