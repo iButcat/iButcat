@@ -2,19 +2,29 @@
 
 <a><img align="center" src="https://komarev.com/ghpvc/?username=iButcat" alt="Profile Views" /></a>  
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on **embedded systems, microservices, and DevOps**. I love working on innovative projects that bridge hardware and software. I am also an open source contributeur building DevOps tools around Vates Xen Orchestra (XO) which is a web-based management tool and virtual appliance designed for XCP-ng (or Citrix Hypervisor/XenServer) infrastructure.
+Welcome to my GitHub profile! 
 
-### 🔭 **What I’m Working On**  
-Currently, I'm developing an **embedded system in Rust** that uses camera recognition to authenticate authorized personnel.  
+### **About Me**  
+I'm a passionate developer with expertise in **Go, microservices, DevOps and agentic workflows**. I also love learning about different topics!
+
+🔧 **Open Source Contributor** – Building DevOps tools around **Vates Xen Orchestra (XO)** and contributing to AI projects like **[LangChain Go (langchaingo)](https://github.com/tmc/langchaingo)**, a Go port of LangChain for LLM applications.  
+
+### 🔭 What I’m Working On 
+- **AI/Agentic Workflows**: Currently buidling a commercial project including agents around voice recognition and automatisation.
+
+### 🛠️ Latest Personal Open-Source Project
+**🔐 [rust-embedded-auth](https://github.com/yourusername/rust-embedded-auth)** (Almost done)
+An **embedded Rust** system using camera recognition for secure personnel authentication.
 
 ### 🌱 **What I’m Learning**  
-Exploring **3D printing** and going deeper into embedded systems
+Exploring **AI application** and going deeper into embedded systems
 
 ### 💬 **Ask Me About**  
-- **Microservices architecture**  
-- **DevOps practices** (CI/CD, Docker, Kubernetes)  
+- **Microservices architecture** 
 - **Go (Golang) development** 
-- **Rust embedded development (esp32)** 
+- **DevOps practices** (CI/CD, Docker, Kubernetes, Terraform) 
+- **Agentic workflows**
+- **Rust embedded development (esp32)**
 
 ### 📫 **How to Reach Me**  
 Feel free to contact me via **email**
@@ -41,14 +51,14 @@ Feel free to contact me via **email**
 ---
 
 ### 🔨 **Technologies & Tools**  
-
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)  
+ 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes)  
-![3D Printing](https://img.shields.io/badge/-3D_Printing-FF6E00?style=flat&logo=blender)  
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) 
+![Terraform](https://img.shields.io/badge/-Terraform-326CE5?style=flat&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
 
 ---
 
 ### ✨ **Let’s Collaborate!**  
-If you're interested in **embedded systems, AI, or DevOps**, let’s connect! Open to discussions, contributions, and new ideas.  
+If you're interested in **microservices, AI, or DevOps**, let’s connect! Open to discussions, contributions, and new ideas.  
