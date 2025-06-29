@@ -13,7 +13,7 @@ I'm a passionate developer with expertise in **Go, microservices, DevOps and age
 - **AI/Agentic Workflows**: Currently buidling a commercial project including agents around voice recognition and automatisation.
 
 ### 🛠️ Latest Personal Open-Source Project
-**🔐 [rust-embedded-auth](https://github.com/yourusername/rust-embedded-auth)** (Almost done)
+**🔐 [rusty-secure](https://github.com/iButcat/rusty-secure)** (Almost done)
 An **embedded Rust** system using camera recognition for secure personnel authentication.
 
 ### 🌱 **What I’m Learning**  
