@@ -56,7 +56,6 @@ Feel free to contact me via **email**
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) 
 ![Terraform](https://img.shields.io/badge/-Terraform-326CE5?style=flat&logo=terraform)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) 
 
 ---
 
