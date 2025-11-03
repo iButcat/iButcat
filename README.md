@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! 
 
 ### **About Me**  
-I'm a passionate developer with expertise in **Go, microservices, DevOps and agentic workflows**. I also love learning about different topics!
+I'm a passionate developer with expertise in **Go, microservices, DevOps and Rust**. I also love learning about different topics!
 
 🔧 **Open Source Contributor** – Building DevOps tools around **Vates Xen Orchestra (XO)** and contributing to AI projects like **[LangChain Go (langchaingo)](https://github.com/tmc/langchaingo)**, a Go port of LangChain for LLM applications.  
 
