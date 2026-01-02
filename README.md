@@ -38,8 +38,8 @@ Feel free to contact me via **email**
 </a>
 
 <a href="https://github.com/iButcat">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iButcat&count_private=true&langs_count=8&layout=compact&theme=synthwave&exclude_repo=terraform-associate-practice&hide=html,css&border_radius=10" alt="Top Languages" />
-</a>  
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iButcat&count_private=true&langs_count=8&layout=compact&theme=synthwave&exclude_repo=terraform-associate-practice&hide=html,css,hcl&border_radius=10" alt="Top Languages" />
+</a>
 
 **Note:** Top languages reflect my most-used languages on GitHub, not necessarily my expertise level.  
 
