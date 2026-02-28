@@ -43,11 +43,6 @@ Feel free to contact me via **email**
 
 **Note:** Top languages reflect my most-used languages on GitHub, not necessarily my expertise level.  
 
-### 🏆 **Codewars Badge**  
-<a>
-  <img align="center" src="https://github.com/iButcat/iButcat/blob/main/codewars.png" alt="Codewars Rank" />
-</a>  
-
 ---
 
 ### 🔨 **Technologies & Tools**  
