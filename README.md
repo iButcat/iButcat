@@ -52,7 +52,7 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 
 **AI & Voice**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LLM, Claude, Gemini](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![GCP Speech](https://img.shields.io/badge/GCP_Speech--to--Text-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![GCP TTS](https://img.shields.io/badge/GCP_Text--to--Speech-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
