@@ -1,7 +1,7 @@
 ### Hi, I'm Alexis &nbsp;<img src="https://komarev.com/ghpvc/?username=iButcat&color=grey&style=flat" alt="Profile Views" />
 
-Senior Software & DevOps Engineer — 5+ years shipping distributed systems and cloud-native infrastructure.
-Go, Rust, Kubernetes, Terraform. Fully remote.
+Senior Software & DevOps Engineer, 5+ years shipping distributed systems, cloud-native infrastructure, and LLM/voice integrations.
+Go, Rust, Kubernetes, Terraform, Cloud. Fully remote.
 
 Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go port of LangChain (8.7k+ stars) — and to the Vates XO ecosystem: **[Go SDK](https://github.com/vatesfr/xenorchestra-go-sdk)**, **[Terraform provider](https://github.com/vatesfr/terraform-provider-xenorchestra)**, and **[PowerShell module](https://github.com/vatesfr/xo-powershell)**.
 
@@ -13,6 +13,8 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 
 **[rusty-secure](https://github.com/iButcat/rusty-secure)** — Embedded Rust system for secure personnel authentication via camera recognition on ESP32.
 
+**EmpowerVoice** — Voice AI productivity app built on GCP: Speech-to-Text input, LLM with function calling (calendar, reminders, maps), Text-to-Speech output. Swift iOS frontend + Go backend. Full voice-to-action pipeline with native iOS ecosystem integration.
+
 ---
 
 ### Stack
@@ -23,6 +25,7 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -33,6 +36,8 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![XCP-ng](https://img.shields.io/badge/XCP--ng-F39200?style=flat&logo=citrix&logoColor=white)
 
 **Backend & Data**
 
@@ -40,10 +45,17 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+**AI & Voice**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![GCP Speech](https://img.shields.io/badge/GCP_Speech--to--Text-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![GCP TTS](https://img.shields.io/badge/GCP_Text--to--Speech-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ---
 
@@ -54,3 +66,4 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 </p>
 
 *Top languages reflect public repos, not overall expertise.*
+
