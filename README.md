@@ -3,7 +3,7 @@
 Senior Software & DevOps Engineer, 5+ years shipping distributed systems, cloud-native infrastructure, and LLM/voice integrations.
 Go, Rust, Kubernetes, Terraform, Cloud. Fully remote.
 
-Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go port of LangChain (8.7k+ stars) — and to the Vates XO ecosystem: **[Go SDK](https://github.com/vatesfr/xenorchestra-go-sdk)**, **[Terraform provider](https://github.com/vatesfr/terraform-provider-xenorchestra)**, and **[PowerShell module](https://github.com/vatesfr/xo-powershell)**.
+Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go port of LangChain (8.7k+ stars) and to the Vates XO ecosystem: **[Go SDK](https://github.com/vatesfr/xenorchestra-go-sdk)**, **[Terraform provider](https://github.com/vatesfr/terraform-provider-xenorchestra)**, and **[PowerShell module](https://github.com/vatesfr/xo-powershell)**.
 
 &nbsp;<a href="https://linkedin.com/in/alexis-morin-software-devops-engineer"><img src="https://img.shields.io/badge/LinkedIn-Alexis_Morin-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 
@@ -11,9 +11,9 @@ Contributor to **[langchaingo](https://github.com/tmc/langchaingo)** — the Go 
 
 ### What I'm building
 
-**[rusty-secure](https://github.com/iButcat/rusty-secure)** — Embedded Rust system for secure personnel authentication via camera recognition on ESP32.
+**[rusty-secure](https://github.com/iButcat/rusty-secure)** -> Embedded Rust system for secure personnel authentication via camera recognition on ESP32.
 
-**EmpowerVoice** — Voice AI productivity app built on GCP: Speech-to-Text input, LLM with function calling (calendar, reminders, maps), Text-to-Speech output. Swift iOS frontend + Go backend. Full voice-to-action pipeline with native iOS ecosystem integration.
+**EmpowerVoice** -> Voice AI productivity app built on GCP: Speech-to-Text input, LLM with function calling (calendar, reminders, maps), Text-to-Speech output. Swift iOS frontend + Go backend. Full voice-to-action pipeline with native iOS ecosystem integration.
 
 ---
 
