@@ -1,4 +1,4 @@
-### Hi, I'm iButcat &nbsp;<img src="https://komarev.com/ghpvc/?username=iButcat&color=grey&style=flat" alt="Profile Views" />
+### Hi, I'm iButcat (Butcat) &nbsp;<img src="https://komarev.com/ghpvc/?username=iButcat&color=grey&style=flat" alt="Profile Views" />
 
 Senior Software & DevOps Engineer, 5+ years shipping distributed systems, cloud-native infrastructure, and LLM/voice integrations.
 Go, Rust, Kubernetes, Terraform, Cloud. Fully remote.
